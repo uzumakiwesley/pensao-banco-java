@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pensao:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pensao_jar</output-path>
+    <root id="archive" name="pensao.jar">
+      <element id="module-output" name="pensao" />
+    </root>
+  </artifact>
+</component>
